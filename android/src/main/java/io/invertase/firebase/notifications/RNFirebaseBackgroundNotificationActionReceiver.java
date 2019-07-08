@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.ComponentName;
 import android.os.Bundle;
-import android.support.v4.app.RemoteInput;
+import android.core.app.RemoteInput;
 
 import com.facebook.react.HeadlessJsTaskService;
 import com.facebook.react.ReactApplication;

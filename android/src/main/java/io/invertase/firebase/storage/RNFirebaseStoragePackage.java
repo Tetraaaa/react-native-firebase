@@ -1,6 +1,6 @@
 package io.invertase.firebase.storage;
 
-import android.support.annotation.RequiresPermission;
+import androidx.annotation.RequiresPermission;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

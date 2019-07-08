@@ -7,8 +7,8 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.v4.app.RemoteInput;
-import android.support.v4.content.LocalBroadcastManager;
+import android.core.app.RemoteInput;
+import android.core.content.LocalBroadcastManager;
 import android.util.Log;
 
 import com.facebook.react.bridge.ActivityEventListener;
